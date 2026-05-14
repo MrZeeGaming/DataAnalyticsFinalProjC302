@@ -294,15 +294,6 @@ This model can be used to analyze:
 
 ---
 
-## Summary
-
-The data model is built around the orders table.
-
-Customers place orders, orders have items, items are connected to products and sellers, and orders also connect to payments and reviews.
-
-The customer table is connected to geolocation data to show customer locations.
-
-Overall, this model helps understand sales, customers, products, sellers, payments, reviews, and delivery performance.
 
 # E-Commerce Sales Dashboard
 
