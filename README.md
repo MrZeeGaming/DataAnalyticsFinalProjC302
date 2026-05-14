@@ -308,6 +308,8 @@ Overall, this model helps understand sales, customers, products, sellers, paymen
 
 ## Overview
 
+![Data Model Screenshot](Screenshots/Dashboard.PNG)
+
 This dashboard presents a simple overview of e-commerce business performance. It shows sales, orders, customers, payment methods, product categories, and customer review performance.
 
 The purpose of this dashboard is to help users monitor business performance and identify areas that may need improvement.
